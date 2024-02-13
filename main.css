@@ -1,0 +1,48 @@
+body{
+    background-image: url(9999520.jpg);
+    background-size:cover;
+    background-attachment: fixed;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 25px;
+}
+
+h1{
+    color: goldenrod;
+    margin-top: 150px;
+    
+}
+
+#message-el{
+    font-style: italic;
+}
+
+#strt{
+    background-color: goldenrod;
+    color: rgb(11, 55, 33);
+    border:none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    border-radius: 3px;
+    font-weight:bold;
+}
+#newcrd{
+    background-color: goldenrod;
+    color: rgb(11, 55, 33);
+    border:none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 25px;
+    border-radius: 3px;
+    font-weight:bold;
+    margin-top: 7px;
+}
